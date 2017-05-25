@@ -1,0 +1,58 @@
+[17/05/24 10:33:16.914][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 10:33:16.920][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 10:33:16.920][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 10:33:17.729][ INFO][com.spring.StartApplication        -30   ] - Util.getVersion(): 
+[17/05/24 10:36:44.550][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 10:36:44.555][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 10:36:41 CST 2017]; root of context hierarchy
+[17/05/24 10:36:44.557][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 10:36:44.625][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 10:36:44.626][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 10:36:44.626][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 10:44:17.717][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 10:44:17.722][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 10:44:15 CST 2017]; root of context hierarchy
+[17/05/24 10:44:17.722][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 10:44:17.785][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 10:44:17.786][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 10:44:17.786][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:05:09.055][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:05:09.060][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 11:05:06 CST 2017]; root of context hierarchy
+[17/05/24 11:05:09.060][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:05:09.142][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:05:09.145][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:05:09.145][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:10:04.139][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:10:04.145][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 11:10:01 CST 2017]; root of context hierarchy
+[17/05/24 11:10:04.146][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:10:04.218][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:10:04.218][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:10:04.218][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:10:22.946][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:10:22.951][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 11:10:19 CST 2017]; root of context hierarchy
+[17/05/24 11:10:22.951][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:10:23.026][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:10:23.027][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:10:23.027][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:12:50.018][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:12:50.024][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 11:12:47 CST 2017]; root of context hierarchy
+[17/05/24 11:12:50.025][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:12:50.112][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:12:50.113][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:12:50.113][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:13:42.732][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:13:42.739][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@6c9f5c0d: startup date [Wed May 24 11:13:40 CST 2017]; root of context hierarchy
+[17/05/24 11:13:42.740][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:13:42.815][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:13:42.816][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:13:42.816][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:15:52.729][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:15:52.733][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@530612ba: startup date [Wed May 24 11:15:49 CST 2017]; root of context hierarchy
+[17/05/24 11:15:52.734][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:15:52.796][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:15:52.796][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:15:52.796][ INFO][com.util.Util                      -77   ] - Util() end
+[17/05/24 11:18:55.234][ INFO][com.spring.StartListener           -31   ] - contextInitialized Start###################
+[17/05/24 11:18:55.239][ INFO][com.spring.StartListener           -38   ] - SpringContextHolder is org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@530612ba: startup date [Wed May 24 11:18:52 CST 2017]; root of context hierarchy
+[17/05/24 11:18:55.240][ INFO][com.spring.StartListener           -41   ] - contextInitialized End###################
+[17/05/24 11:18:55.292][ INFO][com.util.Util                      -72   ] - Util() start
+[17/05/24 11:18:55.292][ INFO][com.util.Util                      -76   ] - Util - YourProjectName version: v1.0.0
+[17/05/24 11:18:55.292][ INFO][com.util.Util                      -77   ] - Util() end
